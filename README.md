@@ -3,7 +3,7 @@
 Sunnyside Agency Landing Page is a visually appealing, responsive landing page designed to promote a creative agency. Built with a mobile-first approach.
 
 ## Demo
-[**View Sunnyside Agency Live**](https://sunnyside-agency-i.netlify.app/)
+[**Live Demo**](https://sunnyside-agency-i.netlify.app/)
 
 ## Screenshots
 ![Desktop Screenshot](screenshots/Sunnyside-agency.png)
